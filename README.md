@@ -6,3 +6,4 @@
 - Em caso de erro ou acerto é mostrada uma mensagem na tela
 - Tecnologia utilizada:
   - Java
+- Desenvolvido por <a href="https://github.com/BSantiago07">Brenda Santiago</a> & <a href="https://github.com/gabrielcs04">Gabriel Costa</a>
